@@ -35,7 +35,7 @@ pipelines:
                 PACKAGE_VERSION: '${PACKAGE_VERSION}'
                 DEST_REPO: 'pablote/varde-one-demoapp'
                 DEST_GITHUB_USER: "pablote"
-                DEST_GITHUB_TOKEN: "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"
+                DEST_GITHUB_TOKEN: "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"
                 PRODUCT_DISPLAY_NAME: 'VärdeOne Core'
                 COMPONENT_DISPLAY_NAME: 'varde-one-demoapp'
                 REVIEWERS: "pablote"
