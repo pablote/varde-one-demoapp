@@ -30,7 +30,7 @@ pipelines:
           trigger: manual
           script:
             - source set_env.sh
-            - pipe: docker://bluealba/sync-repo-pipe:latest
+            - pipe: docker://bluealba/sync-upstream-pipe:latest
               variables:
                 PACKAGE_VERSION: '${PACKAGE_VERSION}'
                 DEST_REPO: 'pablote/varde-one-demoapp'
