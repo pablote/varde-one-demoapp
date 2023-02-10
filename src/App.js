@@ -13,6 +13,7 @@ function App() {
         <div>change 5</div>
         <div>change 6</div>
         <div>change 7</div>
+        <div>change 8</div>
         <p>
           Edit <code>src/App.js</code> and save to reload. Hola!
         </p>
