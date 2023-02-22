@@ -18,6 +18,10 @@ function App() {
         <div>change 10 from upstream</div>
         <div>change 11</div>
         <div>change 12</div>
+        <div>change 13 from upstream</div>
+        <div>change 14 from upstream</div>
+        <div>change 15 from upstream</div>
+        <div>change 16 from upstream</div>
         <p>
           Edit <code>src/App.js</code> and save to reload. Hola!
         </p>
