@@ -25,6 +25,8 @@ function App() {
         <div>change 17</div>
         <div>change 18 from upstream</div>
         <div>change 19</div>
+        <div>change 20</div>
+        <div>change 21</div>
         <p>
           Edit <code>src/App.js</code> and save to reload. Hola!
         </p>
